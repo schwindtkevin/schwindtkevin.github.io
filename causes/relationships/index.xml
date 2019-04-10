@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relationships on Links | ComnGood</title>
+    <link>https://links.comngood.org/causes/relationships/</link>
+    <description>Recent content in Relationships on Links | ComnGood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://links.comngood.org/causes/relationships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fight the New Drug</title>
+      <link>https://links.comngood.org/all/fight-the-new-drug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/all/fight-the-new-drug/</guid>
+      <description>Fight the New Drug is a non-religious and non-legislative organization that exists to provide individuals the opportunity to make an informed decision regarding pornography by raising awareness on its harmful effects using only science, facts, and personal accounts.</description>
+    </item>
+    
+  </channel>
+</rss>

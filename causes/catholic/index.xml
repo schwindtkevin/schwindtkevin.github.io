@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catholic on Links | ComnGood</title>
+    <link>https://links.comngood.org/causes/catholic/</link>
+    <description>Recent content in Catholic on Links | ComnGood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://links.comngood.org/causes/catholic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blessed is She</title>
+      <link>https://links.comngood.org/all/blessed-is-she/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/all/blessed-is-she/</guid>
+      <description>A community of Catholic women devoted to daily prayer!</description>
+    </item>
+    
+    <item>
+      <title>Dar Agency</title>
+      <link>https://links.comngood.org/all/dar-agency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/all/dar-agency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exodus 90</title>
+      <link>https://links.comngood.org/all/exodus-90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/all/exodus-90/</guid>
+      <description>Exodus 90 is all about freedom. Why? Because without freedom, we cannot love as we ought. It’s about our wives, children, parishes and friends who suffer when we’re not at our best. The goal is to achieve the freedom necessary to fully engage the love of God and the love of neighbor. Exodus 90 is based on a challenging 90-day period of purification, a dying to self, which is supported by a fraternity of like-minded men for greater interior freedom and, eventually, a more purified and selfless love.</description>
+    </item>
+    
+    <item>
+      <title>Pints With Aquinas</title>
+      <link>https://links.comngood.org/all/pints-with-aquinas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/all/pints-with-aquinas/</guid>
+      <description>It&amp;rsquo;s a podcast with Matt Fradd!</description>
+    </item>
+    
+  </channel>
+</rss>

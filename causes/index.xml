@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causes on Links | ComnGood</title>
+    <link>https://links.comngood.org/causes/</link>
+    <description>Recent content in Causes on Links | ComnGood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://links.comngood.org/causes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti Porn</title>
+      <link>https://links.comngood.org/causes/anti-porn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/causes/anti-porn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catholic</title>
+      <link>https://links.comngood.org/causes/catholic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/causes/catholic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Dignity</title>
+      <link>https://links.comngood.org/causes/human-dignity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/causes/human-dignity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Rights</title>
+      <link>https://links.comngood.org/causes/human-rights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/causes/human-rights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Trafficking</title>
+      <link>https://links.comngood.org/causes/human-trafficking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/causes/human-trafficking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships</title>
+      <link>https://links.comngood.org/causes/relationships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/causes/relationships/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
