@@ -83,6 +83,15 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>https://links.comngood.org/tags/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prayer</title>
       <link>https://links.comngood.org/tags/prayer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -92,11 +101,11 @@
     </item>
     
     <item>
-      <title>Women</title>
-      <link>https://links.comngood.org/tags/women/</link>
+      <title>Research</title>
+      <link>https://links.comngood.org/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://links.comngood.org/tags/women/</guid>
+      <guid>https://links.comngood.org/tags/research/</guid>
       <description></description>
     </item>
     

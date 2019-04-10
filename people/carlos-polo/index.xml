@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Polo on Links | ComnGood</title>
+    <link>https://links.comngood.org/people/carlos-polo/</link>
+    <description>Recent content in Carlos Polo on Links | ComnGood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://links.comngood.org/people/carlos-polo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population Research Institute</title>
+      <link>https://links.comngood.org/all/population-research-institute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://links.comngood.org/all/population-research-institute/</guid>
+      <description>The Population Research Institute is a (501c3) non-profit research organization whose core values hold that people are the world’s greatest resource. PRI’s goals are to educate on this premise, to expose the myth of overpopulation, and to expose human rights abuses committed in population control programs. Our growing, global network of pro-life groups spans over 80 countries.
+We pledge to:
+Debunk the myth of overpopulation, which cheapens human life and paves the way for abusive population control programs</description>
+    </item>
+    
+  </channel>
+</rss>

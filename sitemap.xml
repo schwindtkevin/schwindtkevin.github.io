@@ -37,11 +37,12 @@
   </url>
   
   <url>
-    <loc>https://links.comngood.org/all/blessed-is-she/</loc>
+    <loc>https://links.comngood.org/people/cameron-lee/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://links.comngood.org/people/cameron-lee/</loc>
+    <loc>https://links.comngood.org/people/carlos-polo/</loc>
     <priority>0</priority>
   </url>
   
@@ -167,6 +168,11 @@
   </url>
   
   <url>
+    <loc>https://links.comngood.org/causes/life/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://links.comngood.org/</loc>
     <priority>0</priority>
   </url>
@@ -207,6 +213,11 @@
   </url>
   
   <url>
+    <loc>https://links.comngood.org/tags/news/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://links.comngood.org/people/pablo-gonz%C3%A1lez-dom%C3%ADnguez/</loc>
     <priority>0</priority>
   </url>
@@ -226,12 +237,21 @@
   </url>
   
   <url>
+    <loc>https://links.comngood.org/all/population-research-institute/</loc>
+  </url>
+  
+  <url>
     <loc>https://links.comngood.org/tags/prayer/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://links.comngood.org/causes/relationships/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://links.comngood.org/tags/research/</loc>
     <priority>0</priority>
   </url>
   
@@ -252,11 +272,6 @@
   
   <url>
     <loc>https://links.comngood.org/people/tom-bratton/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://links.comngood.org/tags/women/</loc>
     <priority>0</priority>
   </url>
   
